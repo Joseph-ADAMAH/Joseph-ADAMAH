@@ -1,0 +1,19 @@
+h1{
+    color:red ;
+    text-decoration: underline;
+}
+a{
+    color: blue;
+    text-decoration: underline;
+    font-variant-position: super;
+}
+p{
+    letter-spacing: 0cap;
+    color: black;
+}
+image{
+    column-gap: 110cap;
+}
+h3{
+    color: orangered;
+}
